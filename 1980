@@ -183,12 +183,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR aquamarine]Em Nova York Peter Venkman (Bill Murray), Ray Stantz (Dan Aykroyd) e Egon Spengler (Harold Ramis) são três cientistas do departamento de psicologia da Columbia University, que se dedicam ao estudo de casos paranormais. Quando a subvenção termina eles são despedidos e Venkman sugere que abram um negócio próprio, a exterminadora de fantasmas "Ghostbusters". Inicialmente eles só têm despesas e nenhum cliente, mas eis que surge Dana Barrett (Sigourney Weaver), uma violoncelista que teve uma experiência assustadora em seu apartamento.[/COLOR]</info>
 </item>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-MUDAR
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+
 <title>[B][COLOR aquamarine]Gremlins (1984)[/COLOR][/B]</title>
+
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9747fc0af4e268c4a3f07f10d3cb8c1b94568b6b</link>
 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/72Y1X9pMSjXQ7mKB6pBEoMhL0OQ.jpg</thumbnail>
@@ -201,7 +201,9 @@ MUDAR
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+
 <title>[B][COLOR aquamarine]Karatê Kid (1984)[/COLOR][/B]</title>
+
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:263092e5bfcf7f5e01e5d58ff332add53164f4d9</link>
 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg</thumbnail>
@@ -256,9 +258,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B][COLOR aquamarine]A História sem Fim (1984)[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ec88e0e95b65029f4dc22b38ef7a1f453f19b02</link>
 
-<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/kZtv4rfekBFFJdmFiZofXODjNYs.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/lWJC8om086h01f0CMGR9ombdpnI.jpg</thumbnail>
 
-<fanart>https://image.tmdb.org/t/p/original/8VFea9nnOcHEYzBtfTDDKdPe7xj.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/or6DXSUr7vhqwjFgxP4MqghYr6U.jpg</fanart>
 
 <info>[COLOR aquamarine]O garoto Bastian encontra um livro que fala sobre uma terra chamada Fantasia, um lugar onde a escuridão destrói tudo. Fantasia aguarda pela salvação, que virá de um humano exatamente igual a ele.[/COLOR]</info>
 </item>

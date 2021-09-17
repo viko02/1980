@@ -39,7 +39,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B][COLOR aquamarine]Fuga de Nova York (1981)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd2ace90c886314694fce88678d5c87f86e4d3b1</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 
 <thumbnail>https://image.tmdb.org/t/p/original/orwUlLHcbovKKOe06sv4KUTKUoG.jpg</thumbnail>
 
@@ -50,11 +50,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-MUDAR
-
 <item>
 <title>[B][COLOR aquamarine]E.T.: O Extraterrestre (1982)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd68713ad8f7e70283ef68412579de5e4e2872d3</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8ef482cfa64cb424dbfa6890f25f3986d7e4dfd</link>
 
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNlhcOAjJZmvI20G08wdnvxs0EK.jpg</thumbnail>
 
